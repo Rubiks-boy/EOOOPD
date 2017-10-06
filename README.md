@@ -9,5 +9,5 @@ The white cane has helped the blind for centuries, but how can this basic invent
 
 This project won first place in the engineering category at the Beal Bank USA Southern Nevada Regional Science & Engineering Fair at the University of Nevada, Las Vegas on March 15, 2017, qualifying the project for Intel's International Science and Engineering Fair in Los Angeles on May 14-19, 2017.
 
-Adam Walker - adamwalker567123@gmail.com<br />
-Russell Ro - pr.russell.ro@gmail.com
+Adam Walker - adamwalker567123@gmail.com (Programming)<br />
+Russell Ro - pr.russell.ro@gmail.com (3D Modeling)
